@@ -1,0 +1,5 @@
+## Interface: 11200
+## Title: LoginScriptsAutorunner
+## Notes: Runs a set of scripts on Load
+
+LoginScriptsAutorunner.lua

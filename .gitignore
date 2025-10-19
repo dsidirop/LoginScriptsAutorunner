@@ -39,3 +39,23 @@ luac.out
 *.x86_64
 *.hex
 
+.idea/
+.vscode/
+.DS_Store
+build/
+dist/
+tmp/
+logs/
+*.log
+*.tmp
+*.swp
+*.bak
+*.old
+*.orig
+tags
+ctags
+*.coverprofile
+.coverage
+coverage.out
+.nyc_output/
+report.xml
