@@ -28,7 +28,7 @@ local function LoginScriptsAutorunner_OnUpdate()
         -- SetCVar("UIScale", 0.1);
 
         if QuestFrame ~= nil and QuestFrame.SetScale then
-            QuestFrame:SetScale(2);
+            QuestFrame:SetScale(1.7);
         end
 
         if HideNameplates ~= nil then
